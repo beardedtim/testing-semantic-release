@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/beardedtim/testing-semantic-release/compare/v1.1.0...v1.2.0) (2020-09-02)
+
+
+### Features
+
+* **fa:** fa ([f4effe1](https://github.com/beardedtim/testing-semantic-release/commit/f4effe1c369f3816f5c90479f8a7a80dd86bf61f))
+* **foobar:** baz ([179c66e](https://github.com/beardedtim/testing-semantic-release/commit/179c66e925f405801ff5b83f405f8f5f15c7f07f))
+
 # [1.1.0](https://github.com/beardedtim/testing-semantic-release/compare/v1.0.0...v1.1.0) (2020-09-02)
 
 
