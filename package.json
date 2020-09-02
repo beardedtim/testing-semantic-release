@@ -1,5 +1,5 @@
 {
-  "name": "foo-bar",
+  "name": "@beardedtim/testing-semantic-release",
   "scripts": {
     "commit": "cz"
   },
