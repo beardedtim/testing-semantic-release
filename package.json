@@ -1,4 +1,6 @@
 {
+
+  "name": "foo-bar",
   "scripts": {
     "commit": "cz"
   },
