@@ -1,8 +1,10 @@
 {
-  "dependencies": {
-    "commitizen": "^4.2.1"
+  "scripts": {
+    "commit": "cz"
   },
+  "dependencies": {},
   "devDependencies": {
+    "commitizen": "^4.2.1",
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.1.1"
   },
